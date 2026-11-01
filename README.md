@@ -138,4 +138,4 @@ Co-Authors:
  📜 Citation
 
 If you use the data, figures, or methodology from this repository, please cite the publication:
-> *Mehta P, Kumar AS, Zacharias A, Shodhan A, Li D, Patel SM, et al. Deep learning convolutional neural networks for morphological identification of field-caught Anopheles stephensi in Ethiopia, using smartphone images of specimens. [Journal Name]. 2026.*
+> *Mehta P, Kumar AS, Zacharias A, Shodhan A, Li D, Patel SM, et al. Deep learning convolutional neural networks for morphological identification of field-caught Anopheles stephensi in Ethiopia, using smartphone images of specimens. Malaria Journal. 2026.*
