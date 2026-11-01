@@ -18,7 +18,7 @@ Key Achievements:
 *   🧠 Explainable AI (Grad-CAM): Confirmed that the models are making decisions based on biologically meaningful features (wing venation and leg morphology), just as a trained entomologist would.
 
 
-     📂 Repository Structure
+  📂 Repository Structure
     ``text
     Anopheles_DeepLearning_Project/
     │
@@ -43,7 +43,7 @@ Key Achievements:
 
  📊 Key Visualizations
 
-*Click the dropdown menus below to expand and view the pipeline and model performance.*
+Click the dropdown menus below to expand and view the pipeline and model performance.
 
 <br>
 
