@@ -19,8 +19,9 @@ Key Achievements:
 
 
 
- 📂 Repository Structure
-    ``text
+## 📂 Repository Structure
+    
+    ```text
     Anopheles_DeepLearning_Project/
     │
     ├── 📁 Published_Papers/
@@ -37,8 +38,6 @@ Key Achievements:
     │   └── 🖼️ Fig_8_UMAP.png
     │
     └── 📝 README.md
-    ```
-
 
 
 
