@@ -1,0 +1,2 @@
+# Deep-learning-convolutional-neural-networks-for-morphological-identification
+Deep learning convolutional neural networks for morphological identificatDeep learning convolutional neural networks for morphological identification of field-caught Anopheles stephensi in Ethiopia, using smartphone images of specimension of field-caught Anopheles stephensi in Ethiopia, using smartphone images of specimens
