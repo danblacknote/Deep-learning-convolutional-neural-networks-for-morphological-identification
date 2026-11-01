@@ -18,25 +18,26 @@ Key Achievements:
 *   🧠 Explainable AI (Grad-CAM): Confirmed that the models are making decisions based on biologically meaningful features (wing venation and leg morphology), just as a trained entomologist would.
 
 
- 📂 Repository Structure
-      ``text
-      Anopheles_DeepLearning_Project/
-      │
-      ├── 📁 Published_Papers/
-      │   └── 📄 Deep_Learning_Anopheles_stephensi_Identification.pdf
-      │
-      ├── 📁 Figures/
-      │   ├── 🖼️ Fig_1_Wing_Venation_Comparison.png
-      │   ├── 🖼️ Fig_2_VectorCam_Device.png
-      │   ├── 🖼️ Fig_3_System_Pipeline.png
-      │   ├── 🖼️ Fig_4_VectorCam_Multiclass.png
-      │   ├── 🖼️ Fig_5_VectorCam_Binary.png
-      │   ├── 🖼️ Fig_6_Handheld_Binary.png
-      │   ├── 🖼️ Fig_7_Grad_CAM.png
-      │   └── 🖼️ Fig_8_UMAP.png
-      │
-      └── 📝 README.md
-      ```
+     📂 Repository Structure
+    ``text
+    Anopheles_DeepLearning_Project/
+    │
+    ├── 📁 Published_Papers/
+    │   └── 📄 Deep_Learning_Anopheles_stephensi_Identification.pdf
+    │
+    ├── 📁 Figures/
+    │   ├── 🖼️ Fig_1_Wing_Venation_Comparison.png
+    │   ├── 🖼️ Fig_2_VectorCam_Device.png
+    │   ├── 🖼️ Fig_3_System_Pipeline.png
+    │   ├── 🖼️ Fig_4_VectorCam_Multiclass.png
+    │   ├── 🖼️ Fig_5_VectorCam_Binary.png
+    │   ├── 🖼️ Fig_6_Handheld_Binary.png
+    │   ├── 🖼️ Fig_7_Grad_CAM.png
+    │   └── 🖼️ Fig_8_UMAP.png
+    │
+    └── 📝 README.md
+    ```
+
 
 
 
